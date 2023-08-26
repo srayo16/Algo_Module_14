@@ -1,4 +1,4 @@
- // for (int i = 1; i <= n; i++)
+  // for (int i = 1; i <= n; i++)
     // {
-    //     dist[i] = INT_MAX;
+    //     cout << "Shortest path of node " << i << ": " << path[i] << endl;
     // }
